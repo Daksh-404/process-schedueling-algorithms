@@ -5,7 +5,7 @@
 using namespace std;
 int main()
 {
-    //this is the code for priority schedueling
+   //this is the code for round robin schedueling
 
     cout<<"Enter the number of processes:\n";
     int n;
